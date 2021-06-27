@@ -20,6 +20,10 @@
 ### Compare the stock performance between 2017-2018
 
  DQ saw a 199.4% increase in 2017! That would be incredible for Steve's parents if they had invested at the end o 2016. However, DQ saw a 62.6% decrease in 2018. A decrease is unfavorble but this results in a 136.8% net positive return over two years. That's a great investment short term. We would need to execute our analysis over a greater time sample and determine what type of investment Steves' parents are looking to make to determine definitely if DQ is a good fit for them as investors. Additionally, the data begins to give us a glimpse at how renewable energy is performing as a trend. The vast majority of stocks in this list saw a positive return in 2017 and a decrease in yearly return in 2018. 2018 was a bad year for renewables. TERP and JKS saw a net negative return from 2017-2018. TERP decreased year after year while JKS' saw a loss of yearly return in 2018 that outweighed it's 53.9% growth in 2017. That being said, there are many factors that influence market trends. I tend to look at something like renewables as a longterm investment because factors like poliy change and corporation holdouts can influence the price of these stocks in the short-term. If Steve's parents believe in renewables and in DQ more research should be done. 
+ 
+ ![All_Stocks_2017](https://user-images.githubusercontent.com/84756166/123529418-fb681f00-d6bd-11eb-9774-aff5e7555da1.png)
+![All_stocks_2018](https://user-images.githubusercontent.com/84756166/123529419-fefba600-d6bd-11eb-96d2-7e9bc3614520.png)
+
 
 ### Compare execution times of the scripts 
 
