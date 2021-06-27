@@ -43,4 +43,4 @@ This makes collaboration a whole lot easier. Code that is unclear or not using t
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 The disadvantage I experienced is only a very minimal decrease in runtime though I spent hours refactoring. I do think the resulting code is cleaner and
-more simplified but I can also see times when a quick answer will be necessary.
+more simplified but I can also see times when a quick answer will be necessary. The refactored code enumerates more quickly now it only loops through the data one time. I did this by creating a Ticker Index a (j) and looping through the arrays for the requested data in one pass. 
