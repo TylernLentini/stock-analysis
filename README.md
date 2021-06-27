@@ -31,6 +31,8 @@ My execution times ran only slightly faster after refactoring the code. I confer
 
 He was right, that wasn't a satisfying answer. SO I googled, and googled, and added with statements and reduced lines and added semicolons and reduced indexes to single letters. It's all there and honestly it was good practice but I never got my run times to be significantly faster, just *slightly*. 
 
+![Run_Time_2017](https://user-images.githubusercontent.com/84756166/123529434-2c485400-d6be-11eb-8017-73f96b1b300e.png)
+![Run_Time_2018](https://user-images.githubusercontent.com/84756166/123529436-2eaaae00-d6be-11eb-87db-6e5fb0c09e91.png)
 
 ## Summary
 
